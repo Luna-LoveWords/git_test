@@ -1,0 +1,3 @@
+Hello everyone!
+My name is Srutika R Lakshmi.
+Today we are going through the basics of GIT.
